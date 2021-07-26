@@ -1,15 +1,16 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Mufrida Arifuddin",
+		"label": "Teacher",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"email": "Mufrida@smkn1kendal.sch.id",
+		"phone": "08985579317",
+		"website": "https://muf.my.id/",
+		"twitter": "https://twitter.com/paijanx",
+		"facebook": "https://www.facebook.com/mufrida.arifuddin",
+		"github": "https://github.com/mufrida02",
+		"insagram": "https://instagram.com/mufrida02",
+		"summary": "I work as a teacher of physical education at SMKN 1 Kendal. I have over 10 years experience in teaching and educating."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
